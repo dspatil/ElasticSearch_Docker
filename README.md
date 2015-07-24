@@ -20,7 +20,7 @@ Supports version 2.7.0
 
 #### Clone 
 
-		git@github.com:dspatil/ElasticSearch_Docker.git
+		git clone https://github.com/dspatil/ElasticSearch_Docker.git
 
 #### Build
 
